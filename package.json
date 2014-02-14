@@ -1,0 +1,19 @@
+{
+	"name": "baas",
+	"version": "1.0.0",
+	"description": "BlessCSS as a Service",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Maciej Łebkowski <m.lebkowski@gmail.com>",
+	"license": "BSD",
+	"dependencies": {
+		"bless": "~3.0.3",
+		"logfmt": "~0.21.0",
+		"express": "~3.4.8"
+	},
+	"engines": {
+		"node": "0.10.x"
+	}
+}
